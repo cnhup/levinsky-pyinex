@@ -1,8 +1,6 @@
 ## levinsky-pyinex
 This project is a migration of Ross Levinsky's - Pyinex from google code.
 
-
-## Intro
 Pyinex - a project to embed Python in Excel
 
 Version 0.83 alpha  - January 18, 2010
